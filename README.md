@@ -22,7 +22,7 @@ Passionate about cybersecurity, web technologies, and building solutions that pr
 ---
 
 ## 📂 Projects  
-- 🔗 [Web-based Profile Card](#) – a clean and professional online profile  
+- 🔗 [Web-based Profile Card](https://wesleyogbodo.github.io/Profile-card/) – a clean and professional online profile  
 
 ---
 
