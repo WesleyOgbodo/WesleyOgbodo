@@ -23,8 +23,6 @@ Passionate about cybersecurity, web technologies, and building solutions that pr
 
 ## 📂 Projects  
 - 🔗 [Web-based Profile Card](#) – a clean and professional online profile  
-- 📘 [Incident Response Playbook](#) – a structured guide for handling security incidents  
-- 💸 [Pricing Table (WIP)](#) – a responsive, modern component for web apps  
 
 ---
 
