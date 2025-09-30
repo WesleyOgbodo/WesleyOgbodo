@@ -17,8 +17,17 @@ Passionate about cybersecurity, web technologies, and building solutions that pr
 - **Languages:** HTML, CSS, SQL, Python  
 - **Operating Systems:** Linux, Windows  
 - **Security Tools:** Suricata, Wireshark  
-- **Other Interests:** Web app security, automation, open-source contributions  
+- **Other Interests:** Web app security, automation, open-source contributions
 
+---
+
+##  📄 Certifications
+
+- 🎓 Cybersecurity – Digital Dreams
+- 🎓 Advanced Cybersecurity – Digital Dreams
+- 🎓 Introduction to Cybersecurity – Cisco
+- 🎓 FCF: Introduction to the Threat Landscape – Fortinet
+- 🎓 Certified in Cybersecurity (CC) – ISC² (In Progress)
 ---
 
 ## 📂 Projects  
